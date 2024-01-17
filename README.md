@@ -50,7 +50,6 @@
       </ul>
     </li>
     <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#author">Author</a></li>
@@ -71,16 +70,21 @@ Principal Component Analysis (PCA) is a convex optimization problem. The objecti
 
 ### Technology Stack
 
-*  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
+*  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+*  ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+*  ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+*  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+*  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+*  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 
 <!-- Key Features -->
 ## Key Features
-* Pet Inventory Management: Effectively manage the diverse range of pets available in the store, keeping track of their information and status.
+* Reduce Dimension form multiple dimensions to 2-3 dimensions
 
-* Business Management: Enable the store owner to efficiently oversee the business by managing appointments, sales, inventory, and customer interactions.
+* Data visualization with matplotlib
 
-* Sales Log Tracking: Keep a detailed record of all sales transactions, enabling easy access to historical sales data.
+* abc
 
 
 
@@ -125,20 +129,6 @@ This is an example of how to list things you need to use the software and how to
 * Sales Tracking: Keep a record of all sales transactions, enabling easy access to sales history.  
 * Customer Management: Manage customer relationships by maintaining detailed profiles and history.  
 * Data Analytics: Leverage the provided reports and statistics to gain insights into the store's performance.   
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-
 
 
 <!-- CONTRIBUTING -->
