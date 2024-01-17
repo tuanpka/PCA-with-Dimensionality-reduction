@@ -80,7 +80,7 @@ Principal Component Analysis (PCA) is a convex optimization problem. The objecti
 
 <!-- Key Features -->
 ## Key Features
-* Reduce Dimension form multiple dimensions to 2-3 dimensions
+* Reduce Dimension from multiple dimensions to 2-3 dimensions
 
 * Data visualization with matplotlib
 
@@ -97,28 +97,31 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
+* Python 3.8 or newer
   ```sh
-  npm install npm@latest -g
+  [npm install npm@latest -g](https://www.python.org/downloads/release/python-3121/)
+  ```
+* Google colab: Use this when you just need simple implement 
+
+```sh
+  ```sh
+  [npm install npm@latest -g](https://www.python.org/downloads/release/python-3121/)
   ```
 
 ### Installation
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+   https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git
    ```
 
-
+2. Install Python IDE
+   ```sh
+   https://www.jetbrains.com/pycharm/download
+   https://www.jetbrains.com/dataspell/download
+   ```
+3. Open .ipynb file with your IDE
+4. Change the image location to your path
 
 
 <!-- USAGE EXAMPLES -->
