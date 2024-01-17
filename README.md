@@ -62,18 +62,16 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Imgur](https://i.imgur.com/f1Khu9r.jpg)  
+![Imgur](https://i.imgur.com/oF4ydmr.png)  
 
-At the present time, there is a noticeable absence of optimized software solutions tailored for pet store management. Recognizing this gap, our team has conceptualized and developed the "Pet Store Management" project as a comprehensive solution. This application is designed to address the specific needs of pet store management, ensuring efficient operations and enhancing customer experiences.
+Principal Component Analysis (PCA) is a convex optimization problem. The objective function of PCA, which maximizes the variance (the largest eigenvalues of the covariance matrix), is convex, along with the constraint that the eigenvectors are unit-normed, resulting in a unit sphere—a convex set. Consequently, this assures that any local solution is also a global optimum, eliminating the presence of local minima. Thus, PCA is an efficient and reliable method for dimensionality reduction, ensuring global optimality in finding principal components.
 
 
 
 
 ### Technology Stack
 
-*  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
-* ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
-
+*  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  
 
 
 <!-- Key Features -->
@@ -84,11 +82,6 @@ At the present time, there is a noticeable absence of optimized software solutio
 
 * Sales Log Tracking: Keep a detailed record of all sales transactions, enabling easy access to historical sales data.
 
-* Product Inventory Management: Maintain an organized inventory of products specifically tailored for pets, ensuring optimal stock levels and availability.
-
-* Customer Relationship Management: Manage customer profiles, purchase history, and appointment records to foster personalized services and strengthen customer relationships.
-
-* Data Analytics and Reporting: Generate insightful reports and statistics on various aspects of the business, aiding in informed decision-making.
 
 
 <!-- GETTING STARTED -->
