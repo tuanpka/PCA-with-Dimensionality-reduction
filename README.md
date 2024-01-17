@@ -1,4 +1,4 @@
-![image](https://github.com/tuanpka/PCA-with-Dimensionality-reduction/assets/96047026/dd23f0eb-72b0-46ef-a223-7d9335daa9ab)![image](https://github.com/tuanpka/PCA-with-Dimensionality-reduction/assets/96047026/01901805-07e5-46cb-862c-b1993c6fc315)<a name="readme-top"></a>
+![image](https://i.imgur.com/czQMQGz.jpg")<a name="readme-top"></a>
 <!--
 *** Thanks for checking out our project. 
 *** This README file is created by Pham Minh Tuan, member of the project.
