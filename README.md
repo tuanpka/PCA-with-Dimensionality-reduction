@@ -1,4 +1,3 @@
-![image](https://i.imgur.com/czQMQGz.jpg")<a name="readme-top"></a>
 <!--
 *** Thanks for checking out our project. 
 *** This README file is created by Pham Minh Tuan, member of the project.
@@ -14,12 +13,12 @@
 
   </a>
 
-<h3 align="center">Using PCA for </h3>
+<h3 align="center">Using Principal Components Analysis for solving Dimensionality Reduction problem </h3>
 
   <p align="center">
     Numerical Methods for Machine Learning project of Group 5
     <br />
-    <a href="https://github.com/tuanpka/PCA-with-Dimensionality-reduction"><strong>Explore the docs »</strong></a> https://github.com/tuanpka/PCA-with-Dimensionality-reduction
+    <a href="https://github.com/tuanpka/PCA-with-Dimensionality-reduction"><strong>Explore the docs »</strong></a> 
     <br />
     <br />
     <a href="https://github.com/tuanpka/PCA-with-Dimensionality-reduction">View Demo</a>
