@@ -111,11 +111,12 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    
-   [CLick here to take a git clone](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
+   [Click here to take a git clone: ](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
 
 2. Install Python IDE
    ```sh
    https://www.jetbrains.com/pycharm/download
+   OR
    https://www.jetbrains.com/dataspell/download
    ```
 3. Open .ipynb file with your IDE
@@ -125,11 +126,10 @@ This is an example of how to list things you need to use the software and how to
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-* Add Pets and Products: Effortlessly manage the store's pets and products, ensuring accurate tracking and availability.   
-* Business Management: Utilize the system to manage appointments, oversee sales, and handle inventory efficiently.   
-* Sales Tracking: Keep a record of all sales transactions, enabling easy access to sales history.  
-* Customer Management: Manage customer relationships by maintaining detailed profiles and history.  
-* Data Analytics: Leverage the provided reports and statistics to gain insights into the store's performance.   
+* usage1
+* usage2
+* usage3
+
 
 
 <!-- CONTRIBUTING -->
