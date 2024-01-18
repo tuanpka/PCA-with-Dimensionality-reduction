@@ -82,9 +82,7 @@ Principal Component Analysis (PCA) is a convex optimization problem. The objecti
 ## Key Features
 * Reduce Dimension from multiple dimensions to 2-3 dimensions
 
-* Data visualization with matplotlib
-
-* abc
+* Data visualization and analyze.
 
 
 
@@ -111,7 +109,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    
-   [Click here to take a git clone: ](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
+   [Click here to take a git clone ](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
 
 2. Install Python IDE
    ```sh
@@ -124,11 +122,11 @@ This is an example of how to list things you need to use the software and how to
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Process
 
-* usage1
-* usage2
-* usage3
+* Using Breast Cancer dataset from UCI ML Breast Cancer Wisconsin (Diagnostic)
+* Perform principal component analysis (PCA) to reduce dimensions (30 to 2)
+* Making the data easier to visualize and analyze
 
 
 
@@ -168,7 +166,7 @@ Contact:
 * Nguyễn Anh Tuấn - 21013354@st.phenikaa-uni.edu.vn
 
 Project Link:
-[https://github.com/tuanpka/PetStore-OOP](https://github.com/tuanpka/PCA-with-Dimensionality-reduction)
+[https://github.com/tuanpka/PCA-with-Dimensionality-reduction](https://github.com/tuanpka/PCA-with-Dimensionality-reduction)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
