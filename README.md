@@ -103,9 +103,8 @@ This is an example of how to list things you need to use the software and how to
   ```
 * Google colab: Use this when you just need simple implement 
 
-```sh
   ```sh
-  [npm install npm@latest -g](https://www.python.org/downloads/release/python-3121/)
+  https://colab.research.google.com/
   ```
 
 ### Installation
