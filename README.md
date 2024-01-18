@@ -109,16 +109,17 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation
 
-1. Clone the repo 
-   [Github Clone](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
+1. Clone the repo
+2. 
+   [CLick here to take a git clone](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
 
-2. Install Python IDE
+3. Install Python IDE
    ```sh
    https://www.jetbrains.com/pycharm/download
    https://www.jetbrains.com/dataspell/download
    ```
-3. Open .ipynb file with your IDE
-4. Change the image location to your path
+4. Open .ipynb file with your IDE
+5. Change the image location to your path
 
 
 <!-- USAGE EXAMPLES -->
