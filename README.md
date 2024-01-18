@@ -111,7 +111,7 @@ This is an example of how to list things you need to use the software and how to
 
 1. Clone the repo
    ```sh
-   https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git
+   [Github Clone](https://github.com/tuanpka/PCA-with-Dimensionality-reduction.git)  
    ```
 
 2. Install Python IDE
