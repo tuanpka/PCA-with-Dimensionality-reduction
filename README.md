@@ -63,9 +63,9 @@
 
 ![Imgur](https://i.imgur.com/oF4ydmr.png)  
 
-Principal Component Analysis (PCA) is a convex optimization problem. The objective function of PCA, which maximizes the variance (the largest eigenvalues of the covariance matrix), is convex, along with the constraint that the eigenvectors are unit-normed, resulting in a unit sphere—a convex set. Consequently, this assures that any local solution is also a global optimum, eliminating the presence of local minima. Thus, PCA is an efficient and reliable method for dimensionality reduction, ensuring global optimality in finding principal components.
+Principal Component Analysis (PCA) is a statistical procedure that uses orthogonal transformation to convert a set of observations of possibly correlated variables into a set of values of linearly uncorrelated variables called principal components. This transformation is defined in such a way that the first principal component has the largest possible variance, and each succeeding component in turn has the highest variance possible under the constraint that it is orthogonal to the preceding components.
 
-
+PCA is mostly used as a tool in exploratory data analysis and for making predictive models. It is often used to visualize genetic distance and relatedness between populations. PCA is also used in neuroscience, computer graphics, image compression, computer vision, spectroscopic data analysis, natural language processing, neuroinformatics, and cancer studies.
 
 
 ### Technology Stack
